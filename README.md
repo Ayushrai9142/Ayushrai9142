@@ -2,8 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Everyone!+👋;+I'm+Ayush+Rai!;&center=true&font=Righteous&size=35">
-  </a>
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Dear!+👋;+I'm+Ayush+Rai;&center=true&font=Righteous&size=35&color=FF813F">
 
 </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
