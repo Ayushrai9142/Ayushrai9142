@@ -17,7 +17,7 @@
 
 - 🌱 **I’m currently learning React and node.js**
 - 👨‍💻 **All of my projects are available at (https://github.com/ayushrai9142)**
-- 👨‍💻 **Ask me about Web Development**
+- 👨‍💻 **Ask me about Engineering**
 - ⚡ **Best Quote : "The best way to predict the future is to create it."**
 <br>
 
