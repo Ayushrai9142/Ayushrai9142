@@ -49,12 +49,14 @@
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ayushrai9142/Ayushrai9142/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/Ayushrai9142/Ayushrai9142/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/Ayushrai9142/Ayushrai9142/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayushrai9142/Ayushrai9142/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/Ayushrai9142/Ayushrai9142/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Ayushrai9142/Ayushrai9142/output/github-contribution-grid-snake.svg" alt="github-snake" />
   </picture>
   <br />
   <br />
   <br />
 </div>
+
+
 
