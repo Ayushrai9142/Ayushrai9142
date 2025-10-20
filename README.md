@@ -67,5 +67,15 @@
   <br />
 </div>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<!-- Contribution Graph -->
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ayushrai9142&theme=react-dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ayushrai9142&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushrai9142&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Ayush Rai's Contribution Graph" />
+  </picture>
+</a>
 
 
