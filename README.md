@@ -1,4 +1,4 @@
-![logo](https://github.com/Ayushrai9142/Ayushrai9142/blob/main/Github%20Banner-min.png)
+![logo](https://github.com/Ayushrai9142/Ayushrai9142/blob/main/AR%20banner.png)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
