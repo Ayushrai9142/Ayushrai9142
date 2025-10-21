@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushrai9142&label=Profile%20views&color=0e75b6&style=flat" alt="ayushrai9142" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushrai9142" alt="ayushrai9142" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushrai9142&theme=monokai" alt="ayushrai9142" /></a> </p>
 
 <br>
 
