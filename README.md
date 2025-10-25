@@ -12,7 +12,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushrai9142&label=Profile%20views&color=0e75b6&style=flat" alt="ayushrai9142" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ayushrai9142&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-
 <br>
 
 - 🌱 **I’m currently learning React and node.js**
